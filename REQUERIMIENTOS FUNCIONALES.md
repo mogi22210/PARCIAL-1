@@ -1,10 +1,10 @@
 **Requerimientos Funcionales:**
-1. Alquiler de equipos tecnológicos:
-   - Los estudiantes deben poder solicitar y reservar computadoras u otros equipos tecnológicos de alta tecnología a través de la plataforma.
-   - El sistema debe gestionar el proceso de reserva, asignación y devolución de los equipos de manera eficiente.
-2. Reserva de bicicletas:
+1. Reserva de bicicletas:
    - Los estudiantes deben poder reservar bicicletas para desplazarse por el campus.
    - El sistema debe permitir la gestión de disponibilidad de bicicletas y asignarlas a los estudiantes que las soliciten.
+2. Alquiler de equipos tecnológicos:
+   - Los estudiantes deben poder solicitar y reservar computadoras u otros equipos tecnológicos de alta tecnología a través de la plataforma.
+   - El sistema debe gestionar el proceso de reserva, asignación y devolución de los equipos de manera eficiente.
 3. Generación de reportes:
    - Las cuentas administradoras pueden generar reportes sobre la usabilidad de los productos, las compras recientes, o reservas de bicicleta
 4. Compra de materiales de papelería:
