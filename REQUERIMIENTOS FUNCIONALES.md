@@ -30,10 +30,9 @@
    - Se deben realizar pruebas de rendimiento para asegurar que la plataforma pueda mantenerse ágil incluso durante los periodos de mayor demanda.
 
 **Requerimientos del Usuario:**
-1. Los estudiantes deben poder acceder a la plataforma desde sus dispositivos móviles con facilidad.
-2. Los procesos de reserva, pago y compra deben ser simples y rápidos.
-3. Los estudiantes deben sentirse seguros al utilizar la plataforma y confiar en la privacidad de sus datos.
-4. La plataforma debe adaptarse a diferentes perfiles de usuario, desde aquellos con habilidades tecnológicas avanzadas hasta aquellos menos familiarizados con la tecnología.
+1. Los procesos de reserva, pago y compra deben ser simples y rápidos.
+2. Los estudiantes deben sentirse seguros al utilizar la plataforma y confiar en la privacidad de sus datos.
+3. La plataforma debe adaptarse a diferentes perfiles de usuario, desde aquellos con habilidades tecnológicas avanzadas hasta aquellos menos familiarizados con la tecnología.
 
 **Requerimientos del Sistema:**
 1. El sistema debe estar disponible las 24 horas del día, los 7 días de la semana.
