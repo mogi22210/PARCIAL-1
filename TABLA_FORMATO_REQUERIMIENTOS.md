@@ -19,3 +19,15 @@
 |**EXCEPCIONES**| Error si no hay datos disponibles para generar el reporte seleccionado | 
 |**AUTOR**      | Desarrollador de PUSP | 
 |**PRIORIDAD**  | Alta | 
+
+
+| ID        | 03 |
+| ------------- | ------------- |
+|**NOMBRE**     | Reserva de bicicletas       |
+|**DESCRIPCIÓN**| Permitir a los estudiantes reservar bicicletas para desplazarse por el campus   | 
+|**ENTRADA**    | Selección de bicicleta, fecha y hora de reserva | 
+|**SALIDA**     | Confirmación de reserva exitosa | 
+|**EXCEPCIONES**| Error si no hay bicicletas disponibles | 
+|**AUTOR**      | Desarrollador de PUSP | 
+|**PRIORIDAD**  | Alta | 
+
