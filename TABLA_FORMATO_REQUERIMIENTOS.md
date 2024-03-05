@@ -1,5 +1,6 @@
 **REQUERIMIENTOS FUNCIONALES**
 | ID        | 01 |
+| ------------- | ------------- |
 |NOMBRE     | Inicio de Sesión y Registro       |
 |DESCRIPCIÓN| Permitir a los estudiantes iniciar sesión o registrarse en la plataforma   | 
 |ENTRADA    | Nombre de usuario, contraseña (para inicio de sesión), información de registro (para registro) | 
