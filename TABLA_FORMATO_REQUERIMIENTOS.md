@@ -31,3 +31,33 @@
 |**AUTOR**      | Desarrollador de PUSP | 
 |**PRIORIDAD**  | Alta | 
 
+**REQUERIMIENTOS NO FUNCIONALES**
+| ID        | 11 |
+| ------------- | ------------- |
+|**NOMBRE**     | Usabilidad       |
+|**DESCRIPCIÓN**| Garantizar que la interfaz de usuario sea intuitiva y fácil de usar	   | 
+|**ENTRADA**    | Interacción del usuario con la interfaz | 
+|**SALIDA**     | Retroalimentación clara y guía eficiente a través de los procesos | 
+|**EXCEPCIONES**| Errores de navegación, falta de claridad en las instrucciones | 
+|**AUTOR**      | Desarrollador de PUSP | 
+|**PRIORIDAD**  | Alta |
+
+| ID        | 12 |
+| ------------- | ------------- |
+|**NOMBRE**     | Disponibilidad       |
+|**DESCRIPCIÓN**| Garantizar que el sistema esté disponible en todo momento	   | 
+|**ENTRADA**    | - | 
+|**SALIDA**     | Confirmación de disponibilidad del sistema | 
+|**EXCEPCIONES**| Fallos en la conexión, tiempos de inactividad no planificados | 
+|**AUTOR**      | Desarrollador de PUSP | 
+|**PRIORIDAD**  | Alta |
+
+| ID        | 13 |
+| ------------- | ------------- |
+|**NOMBRE**     | Rendimiento      |
+|**DESCRIPCIÓN**| Asegurar que el sistema pueda manejar un gran volumen de transacciones simultáneas sin retrasos significativos	   | 
+|**ENTRADA**    | Carga del sistema con múltiples transacciones simultáneas | 
+|**SALIDA**     | Respuesta rápida del sistema sin retrasos perceptibles | 
+|**EXCEPCIONES**| Tiempos de espera prolongados, errores de procesamiento | 
+|**AUTOR**      | Desarrollador de PUSP | 
+|**PRIORIDAD**  | Alta |
