@@ -14,6 +14,8 @@
 5. Inicio de sesión y registro
    - Implementar un sistema de autenticación que permita a administradores y estudiantes iniciar sesión de manera segura.
    - Desarrollar un registro de nuevos usuarios universitarios al programa.
+6. Gestión de equipos, y acceso a biblioteca digital
+   - Establecer un sistema de ingreso a la biblioteca digital para buscar libros y gestionarles.
 
 **Requerimientos No Funcionales:**
 1. Seguridad y Privacidad:
