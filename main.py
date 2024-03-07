@@ -1,6 +1,4 @@
-"""MIGUEL ANGEL CUENTAS BARRETO - T00067657
-Código de prueba en verificación, es un sumario o una evidencia y claramente le hacen falta optimizaciones que lo hagan mucho más profundo, pero cumple los requerimientos en general
-"""
+"""MIGUEL ANGEL CUENTAS BARRETO - T00067657"""
 
 from admin import Admin
 from campus_platform import CampusPlatform
